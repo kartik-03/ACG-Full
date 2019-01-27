@@ -1,0 +1,8 @@
+S3 event message sturcute:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/notification-content-structure.html
+
+CF Fn: Join:
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference-join.html
+
+Trigger rekognition job in lambda function (repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/253a1801b41806605a4592629fcb5126acc11c00

@@ -1,0 +1,8 @@
+Ansible config settings:
+https://docs.ansible.com/ansible/latest/reference_appendices/config.html#ansible-configuration-settings
+
+Working with patterns:
+https://docs.ansible.com/ansible/latest/user_guide/intro_patterns.html
+
+ansible.cfg:
+https://raw.githubusercontent.com/ansible/ansible/devel/examples/ansible.cfg

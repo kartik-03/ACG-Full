@@ -1,0 +1,10 @@
+
+Ansible docs:
+https://docs.ansible.com/ansible/latest/cli/ansible.html
+
+Ansible Module by category:
+https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
+
+
+ansible.cfg:
+https://raw.githubusercontent.com/ansible/ansible/devel/examples/ansible.cfg

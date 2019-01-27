@@ -1,0 +1,18 @@
+How to Handle your Python packaging in Lambda with Serverless plugins:
+https://serverless.com/blog/serverless-python-packaging/
+
+serverless-python-requirements:
+https://www.npmjs.com/package/serverless-python-requirements
+
+Add notififier serverless project (Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/d1a6332c3599fd9b6694dd7a2a43b6c87992ffe3
+
+Add example of posting to slack webhook (Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/d21d92fcc301164e067a5ffede43a6dde6fa60bb
+
+Add configuration for notifier service (Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/b4e2e6a3cc9f9e3856126096fe8984fa6cf74e27
+
+Post message to slack when lambda function is triggered(repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/9f301612b570076b384623cc08ec007e9afd1c21
+

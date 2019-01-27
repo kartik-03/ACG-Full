@@ -1,0 +1,21 @@
+Resources:
+    Ec2Instance:
+      Type: 'AWS::EC2::Instance'
+      Properties:
+        InstanceType: t2.micro
+        ImageId: ami-035be7bafff33b6b6
+        Tags:
+          - Key: "Name"
+            Value: !Join [" ",[EC2, with, Security, Group ] ]
+        SecurityGroups:
+          - !Ref MySG
+    MySG:
+      Type: 'AWS::EC2::SecurityGroup'
+      Properties:
+        GroupDescription: SG for new EC2 instance to enable port 22
+        SecurityGroupIngress:
+          - IpProtocol: tcp
+            FromPort: '22'
+            ToPort: '22'
+            CidrIp: 0.0.0.0/0
+

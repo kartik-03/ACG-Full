@@ -1,0 +1,8 @@
+Cygwin:
+https://cygwin.com/install.html
+
+Ansible installation using Cygwin:
+https://everythingshouldbevirtual.com/automation/ansible-using-ansible-on-windows-via-cygwin/
+
+Repo:
+https://github.com/ACloudGuru-Resources/Course_Introduction_to_Ansible/blob/master/02_04_Introduction_To_Ansible/windows-setup.txt

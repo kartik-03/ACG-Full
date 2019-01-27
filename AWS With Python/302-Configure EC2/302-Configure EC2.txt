@@ -1,0 +1,5 @@
+EC2 boto3 doc:
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html#EC2.ServiceResource.create_key_pair
+
+First commit for notifon project (repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/1ff0b208fe1056d6332007f33f6dc6eec0258130

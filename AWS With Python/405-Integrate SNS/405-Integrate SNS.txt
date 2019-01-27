@@ -1,0 +1,5 @@
+SNS Boto3:
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rekognition.html#Rekognition.Client.start_label_detection
+
+Publish job completion to SNS topic, and handle via lambda function (Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/d041963840c7b032e4869caa82f29d4c662ea3ed

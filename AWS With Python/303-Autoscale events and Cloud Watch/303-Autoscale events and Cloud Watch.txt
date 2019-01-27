@@ -1,0 +1,8 @@
+Autoscaling Boto3  doc:
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/autoscaling.html
+
+Cloudwatch events for autoscaling:
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/cloud-watch-events.html
+
+Add example autoscale code (repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/3a7d1a49cd1f15bcda229131d8d505a2426350e8

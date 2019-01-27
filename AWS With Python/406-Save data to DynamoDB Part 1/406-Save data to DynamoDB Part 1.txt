@@ -1,0 +1,8 @@
+Reckognition Boto3 Doc:
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rekognition.html#Rekognition.Client.get_label_detection
+
+AWS::DynamoDB::Table :
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-dynamodb-table.html
+
+Get video label data from rekognition(Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/73a23dfeadf2699ecdbebe82e28d9dee9e231b52

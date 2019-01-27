@@ -1,0 +1,11 @@
+aws Rekognition  Doc:
+https://console.aws.amazon.com/rekognition/home?region=us-east-1#/
+
+Rekognition Boto3:
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rekognition.html
+
+Pexel Videos:
+https://videos.pexels.com/
+
+Add example code for Rekognition (repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/0749bf0e0067c1f8fe1fc6ef2b6af61c5a677497

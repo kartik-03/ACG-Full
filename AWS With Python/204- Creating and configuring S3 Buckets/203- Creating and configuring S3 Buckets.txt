@@ -1,0 +1,24 @@
+Source Repo-  Downloaded:
+
+https://github.com/ACloudGuru/automating-aws-with-python/commit/dbcb07a88fca9c505e76fbcd7fa3fc7e066156d4
+
+
+Website Endpoints:
+
+https://docs.aws.amazon.com/general/latest/gr/rande.html#s3_website_region_endpoints
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteEndpoints.html
+
+
+Permission required:
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html
+
+
+RFC 2616:
+
+https://tools.ietf.org/html/rfc2616#section-14.17
+
+S3 boto3 docs:
+
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html#S3.Bucket.upload_file

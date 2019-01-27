@@ -1,0 +1,5 @@
+When Statements:
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html#the-when-statement
+
+Prompts:
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_prompts.html

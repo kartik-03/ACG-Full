@@ -1,0 +1,5 @@
+Boto3- Route53:
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/route53.html#Route53.Client.create_hosted_zone
+
+Configuraing DNS and Route53 Repo:
+https://github.com/ACloudGuru/automating-aws-with-python/commit/128db60de11f7ff5000e8207e987820e34b14725

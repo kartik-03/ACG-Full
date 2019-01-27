@@ -1,0 +1,9 @@
+Resources:
+	Ec2Instance:
+		Type: "AWS::EC2::Instance"
+		Properties:
+			InstanceType: t2.micro
+			ImageID: ami-035be7bafff33b6b6
+			Tags: 
+				- Key: "Name"
+					Value: !Join [ " ", [ EC2, with, Fn, Join ] ]

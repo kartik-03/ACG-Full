@@ -1,0 +1,7 @@
+Pathlib- 
+https://docs.python.org/3/library/pathlib.html
+
+
+Git Repo:
+
+https://github.com/ACloudGuru/automating-aws-with-python/commit/f5be3a4cd7552fa69e44c0f2e65ac5ea381e292a

@@ -1,0 +1,14 @@
+S3 event notification doc:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html#notification-how-to-event-types-and-destinations
+
+Working witrh stored videos doc:
+https://docs.aws.amazon.com/rekognition/latest/dg/video.html
+
+S3 serverless:
+https://serverless.com/framework/docs/providers/aws/events/s3/
+
+Event message structure S3 Doc:
+https://docs.aws.amazon.com/AmazonS3/latest/dev/notification-content-structure.html
+
+Set up serverless project for videolyzer, and upload test script (Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/92020f58abd172da7f71fe8cd327cafc9426078b

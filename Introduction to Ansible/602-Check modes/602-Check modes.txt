@@ -1,0 +1,3 @@
+Check Mode (“Dry Run”):
+
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_checkmode.html

@@ -1,0 +1,6 @@
+Debug module:
+
+https://docs.ansible.com/ansible/latest/modules/debug_module.html
+
+Registering variables:
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html#registering-variables

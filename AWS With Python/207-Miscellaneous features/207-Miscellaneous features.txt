@@ -1,0 +1,24 @@
+Boto3 Credentials:
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html#guide-configuration
+
+AWS Region and endpoints:
+https://docs.aws.amazon.com/general/latest/gr/rande.html#s3_website_region_endpoints
+
+Output website syncing when hosting Repo:
+https://github.com/ACloudGuru/automating-aws-with-python/commit/ba93ba052a9988ceb3a31e1e735955c6354550ff
+
+Don't upload a file if it hasn't changed Repo:
+https://github.com/ACloudGuru/automating-aws-with-python/commit/06997363a45d1343f7bd7c1adda0b63c78b7e36b
+
+ETag definition changed in S3:
+https://stackoverflow.com/questions/6591047/etag-definition-changed-in-amazon-s3
+
+S3 Customization Reference
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/customizations/s3.html#boto3.s3.transfer.TransferConfig
+
+amazon-s3-etag-for-a-file-larger-than-5gb:
+https://stackoverflow.com/questions/12186993/what-is-the-algorithm-to-compute-the-amazon-s3-etag-for-a-file-larger-than-5gb
+
+S3 multipart chuncksize:
+https://docs.aws.amazon.com/cli/latest/topic/s3-config.html#multipart-chunksize
+

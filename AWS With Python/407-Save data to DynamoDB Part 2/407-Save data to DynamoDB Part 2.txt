@@ -1,0 +1,11 @@
+Python numeric type:
+https://docs.python.org/3/library/stdtypes.html#typesnumeric
+
+Python floating type:
+https://docs.python.org/3/tutorial/floatingpoint.html
+
+DynamoDB limits:
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html#limits-data-types
+
+Save data from get_label_detection to dynamodb (Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/646afe5743233cbdc3502d0b194d65529412f259

@@ -1,0 +1,15 @@
+Clean up and refactor Repo:
+https://github.com/ACloudGuru/automating-aws-with-python/commit/5ba61c1ddf9207af50f5486728da234d8c626772
+
+Clean up and style repo:
+https://github.com/ACloudGuru/automating-aws-with-python/commit/3aaaabb7eb0bf47aef56204c737b04c66a8b4e6d
+
+Pydoc Style:
+https://readthedocs.org/projects/pydocstyle/
+https://pypi.org/project/pycodestyle/
+
+Pylint:
+http://pylint.pycqa.org/en/latest/
+
+PEP8:
+https://www.python.org/dev/peps/pep-0008/

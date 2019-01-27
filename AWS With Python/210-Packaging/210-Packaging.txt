@@ -1,0 +1,5 @@
+Prepare webotron for packaging and distribution (*Repo):
+https://github.com/ACloudGuru/automating-aws-with-python/commit/3f4b0a79bb7255380b56f7286524ad41251028ad
+
+Setuptools doc:
+https://setuptools.readthedocs.io/en/latest/
